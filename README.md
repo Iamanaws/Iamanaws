@@ -1,5 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="30"/> Hey! I'm Angel.</h1>
 
+
+<p>Welcome to my page! </br> I'm Angel, a Student from <img src="https://image.flaticon.com/icons/svg/197/197397.svg" width="13"/> <b>Mexico</b>.
 <!--
 ✨ _special_ ✨ 
 
