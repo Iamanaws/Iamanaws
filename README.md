@@ -14,7 +14,7 @@ Check out my latest project <code>
 ## Things I code with
 
 <p>
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" href="https://github.com/Iamanaws" width="24px" height="24px" />
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="24px" height="24px" />
    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/markdown.svg" width="24px" height="24px" />
    <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="24px" height="24px" />
    <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="24px" height="24px" />
