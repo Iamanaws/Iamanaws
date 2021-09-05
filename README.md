@@ -6,8 +6,8 @@
 <p>Welcome to my page! </br> I'm Angel, a Computer Science Student from <img src="https://image.flaticon.com/icons/svg/197/197397.svg" width="13"/> <b>Mexico</b>.
 
 <style>
-   .middle {
-      vertical-align: baseline;
+   img.middle {
+      vertical-align: middle;
    }
 </style>
 
