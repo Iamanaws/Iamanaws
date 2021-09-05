@@ -6,6 +6,7 @@
 Check out my latest project [`🧰 My extension pack`](https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack)
 
 ## Things I code with
+
 <p>
    <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="24px" height="24px" />
    <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="24px" height="24px" />
