@@ -34,7 +34,12 @@ Check out my latest project [`🧰 My extension pack`](https://marketplace.visua
    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" width="24px" height="24px" />
 <p/>
 
-
+<p align="center">
+  <samp>
+    <a href="https://www.linkedin.com/in/angel-juarez/">me</a> .
+    <a href="https://www.instagram.com/angel.juarez.g/">instagram</a> .
+  </samp>
+</p>
 
 
 <!--
