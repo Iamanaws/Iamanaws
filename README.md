@@ -9,7 +9,7 @@
 
 Check out my latest project <code>
 <a href="https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack">
-<img valign="middle" src="https://iamanaws.gallerycdn.vsassets.io/extensions/iamanaws/iamanaws-extension-pack/0.3.0/1630860373622/Microsoft.VisualStudio.Services.Icons.Default" width="14px" height="14px" /> My extension pack </a> </code>
+<img valign="middle" src="https://iamanaws.gallerycdn.vsassets.io/extensions/iamanaws/iamanaws-extension-pack/0.3.0/1630860373622/Microsoft.VisualStudio.Services.Icons.Default" width="16px" height="16px" /> My extension pack </a> </code>
 
 ## Things I code with
 
