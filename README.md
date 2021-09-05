@@ -3,7 +3,7 @@
 <p>Welcome to my page! </br> I'm Angel, a Student from <img src="https://image.flaticon.com/icons/svg/197/197397.svg" width="13"/> <b>Mexico</b>.
 
 
-Check out my latest project [`🧰 My extension My extension pack`](https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack)
+Check out my latest project [`🧰 My extension pack`](https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack)
 
 
 <!--
