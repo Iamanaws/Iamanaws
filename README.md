@@ -6,7 +6,7 @@
 Check out my latest project [`🧰 My extension pack`](https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack)
 Check out my latest project <code>
 <a href="https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack">
-<img src="https://iamanaws.gallerycdn.vsassets.io/extensions/iamanaws/iamanaws-extension-pack/0.3.0/1630860373622/Microsoft.VisualStudio.Services.Icons.Default" width="15px" height="15px" style="margin-top:25%" /> My extension pack </a> <code/>
+<img src="https://iamanaws.gallerycdn.vsassets.io/extensions/iamanaws/iamanaws-extension-pack/0.3.0/1630860373622/Microsoft.VisualStudio.Services.Icons.Default" width="15px" height="15px" style="margin-top:25%" /> My extension pack </a> </code>
 
 ## Things I code with
 
@@ -35,7 +35,7 @@ Check out my latest project <code>
    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/intellij-idea.svg" width="24px" height="24px" />
    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pycharm.svg" width="24px" height="24px" />
    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" width="24px" height="24px" />
-<p/>
+</p>
 
 <p align="center">
   <samp>
