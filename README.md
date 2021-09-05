@@ -28,7 +28,7 @@ Check out my latest project [`🧰 My extension pack`](https://marketplace.visua
    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/fedora.svg" width="24px" height="24px" />
    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/perl.svg" width="24px" height="24px" />
    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg" width="24px" height="24px" />
-   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio.svg" width="24px" height="24px" />
+   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio.svg" width="24px" height="24px" color="white"/>
    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/intellij-idea.svg" width="24px" height="24px" />
    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pycharm.svg" width="24px" height="24px" />
    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" width="24px" height="24px" />
