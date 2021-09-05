@@ -7,7 +7,7 @@ Check out my latest project [`🧰 My extension pack`](https://marketplace.visua
 
 ## Things I code with
 <p>
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/codecov.svg" width="24px" height="24px" />
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="24px" height="24px" />
    <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="24px" height="24px" />
    <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="24px" height="24px" />
    <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="24px" height="24px" />
