@@ -7,9 +7,9 @@
 
 
 
-Check out my latest project <tr><td vlign="center"><code>
+Check out my latest project <code>
 <a href="https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack">
-<img style="vertical-align: text-top" src="https://iamanaws.gallerycdn.vsassets.io/extensions/iamanaws/iamanaws-extension-pack/0.3.0/1630860373622/Microsoft.VisualStudio.Services.Icons.Default" width="15px" height="15px" /> My extension pack </a> </code></td></tr>
+<tr><td vlign="center"><img style="vertical-align: text-top" src="https://iamanaws.gallerycdn.vsassets.io/extensions/iamanaws/iamanaws-extension-pack/0.3.0/1630860373622/Microsoft.VisualStudio.Services.Icons.Default" width="15px" height="15px" /></td></tr> My extension pack </a> </code>
 
 ## Things I code with
 
