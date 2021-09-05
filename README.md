@@ -49,8 +49,7 @@ Check out my latest project <code>
 </p>
 
 
-<!--
-✨ _special_ ✨ 
+<!-- TODO
 
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
