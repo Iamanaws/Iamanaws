@@ -6,7 +6,7 @@
 Check out my latest project [`🧰 My extension pack`](https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack)
 Check out my latest project <code>
 <a href="https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack">
-<img src="https://iamanaws.gallerycdn.vsassets.io/extensions/iamanaws/iamanaws-extension-pack/0.3.0/1630860373622/Microsoft.VisualStudio.Services.Icons.Default" width="15px" height="15px" style="display:flex; margin-top:25%" /> My extension pack </a> </code>
+<img src="https://iamanaws.gallerycdn.vsassets.io/extensions/iamanaws/iamanaws-extension-pack/0.3.0/1630860373622/Microsoft.VisualStudio.Services.Icons.Default" width="15px" height="15px" style="display:flex;position:absolute; margin-top:25%" /> My extension pack </a> </code>
 
 ## Things I code with
 
