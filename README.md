@@ -5,16 +5,29 @@
 
 Check out my latest project [`🧰 My extension pack`](https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack)
 
+## Things I code with
+<p>
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/codecov.svg" width="24px" height="24px" />
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="24px" height="24px" />
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="24px" height="24px" />
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="24px" height="24px" />
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" width="24px" height="24px" />
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" width="24px" height="24px" />
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" width="24px" height="24px" />
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="24px" height="24px" />
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" width="24px" height="24px" />
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" width="24px" height="24px" />
+
+
+<p/>
+
+
+
 
 <!--
 ✨ _special_ ✨ 
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
