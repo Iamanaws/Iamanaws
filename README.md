@@ -3,7 +3,7 @@
    Hey! I'm Angel.
 </h1>
 
-<p>Welcome to my page! </br> I'm Angel, a Computer Science Student from <img src="https://cdn-icons-png.flaticon.com/512/330/330433.png" width="24"/> <b>Mexico</b>.
+<p>Welcome to my page! </br> I'm Angel, a Computer Science Student from <img src="https://cdn-icons-png.flaticon.com/512/197/197397.png" width="24"/> <b>Mexico</b>.
 
 
 
