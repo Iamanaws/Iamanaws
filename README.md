@@ -9,7 +9,7 @@
 
 Check out my latest project <code>
 <a href="https://marketplace.visualstudio.com/items?itemName=Iamanaws.formatting-essentials">
-<img valign="middle" src="https://iamanaws.gallerycdn.vsassets.io/extensions/iamanaws/formatting-essentials/0.0.3/1633390195337/Microsoft.VisualStudio.Services.Icons.Default" width="20px" height="25px" /> My extension pack </a> </code>
+<img valign="middle" src="https://iamanaws.gallerycdn.vsassets.io/extensions/iamanaws/formatting-essentials/0.0.3/1633390195337/Microsoft.VisualStudio.Services.Icons.Default" width="20px" height="20px" /> My extension pack </a> </code>
 
 ## Things I code with
 
