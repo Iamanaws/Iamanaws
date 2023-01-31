@@ -3,7 +3,7 @@
    Hey! I'm Angel.
 </h1>
 
-<p>Welcome to my page! </br> I'm Angel, a Computer Science Student from <img src="https://cdn-icons-png.flaticon.com/512/197/197397.png" width="18"/> <b>Mexico</b>.
+<p>Welcome to my page! </br> I'm Angel, a Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197397.png" width="18"/> <b>Mexico</b>.
 
 
 
@@ -29,16 +29,7 @@ Check out my latest project <code><a href="https://marketplace.visualstudio.com/
 
 <p align="center">
   <samp>
-    <a href="https://www.linkedin.com/in/angel-juarez/">me</a> .
-    <a href="https://www.instagram.com/ang_jrz/">instagram</a> .
+    <a href="https://www.linkedin.com/in/iamamanws/">me</a> .
     <a href="https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack">my extension pack</a>
   </samp>
 </p>
-
-
-<!-- TODO
-
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
