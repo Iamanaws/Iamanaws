@@ -26,7 +26,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.linkedin.com/in/iamananws/">me</a> .
+    <a href="https://www.linkedin.com/in/iamanaws/">me</a> .
     <a href="https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack">my extension pack</a>
   </samp>
 </p>
