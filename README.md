@@ -6,9 +6,6 @@
 <p>Welcome to my page! </br> I'm Angel, a Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197397.png" width="18"/> <b>Mexico</b>.
 
 
-
-Check out my latest project <code><a href="https://marketplace.visualstudio.com/items?itemName=Iamanaws.formatting-essentials"><img valign="bottom" src="https://iamanaws.gallerycdn.vsassets.io/extensions/iamanaws/formatting-essentials/0.0.3/1633390195337/Microsoft.VisualStudio.Services.Icons.Default" width="20px" height="20px" /> Formatting Essentials </a> </code>
-
 ## Things I code with
 
 <p>
@@ -29,7 +26,7 @@ Check out my latest project <code><a href="https://marketplace.visualstudio.com/
 
 <p align="center">
   <samp>
-    <a href="https://www.linkedin.com/in/iamamanws/">me</a> .
+    <a href="https://www.linkedin.com/in/iamananws/">me</a> .
     <a href="https://marketplace.visualstudio.com/items?itemName=Iamanaws.iamanaws-extension-pack">my extension pack</a>
   </samp>
 </p>
